@@ -1,4 +1,3 @@
-#import "NyanView.h"
 #import <UIKit/UIKit.h>
 
 NSString *quote;
